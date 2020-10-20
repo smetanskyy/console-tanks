@@ -1,0 +1,7 @@
+D:\Visual Studio\C_SHARP\Tanks_Game\Tanks_Game\bin\Debug\Tanks_Game.exe.config
+D:\Visual Studio\C_SHARP\Tanks_Game\Tanks_Game\bin\Debug\Tanks_Game.exe
+D:\Visual Studio\C_SHARP\Tanks_Game\Tanks_Game\bin\Debug\Tanks_Game.pdb
+D:\Visual Studio\C_SHARP\Tanks_Game\Tanks_Game\obj\Debug\Tanks_Game.csprojAssemblyReference.cache
+D:\Visual Studio\C_SHARP\Tanks_Game\Tanks_Game\obj\Debug\Tanks_Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C_SHARP\Tanks_Game\Tanks_Game\obj\Debug\Tanks_Game.exe
+D:\Visual Studio\C_SHARP\Tanks_Game\Tanks_Game\obj\Debug\Tanks_Game.pdb
